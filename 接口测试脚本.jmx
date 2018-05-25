@@ -54,7 +54,7 @@ try{
     
 }
 catch(Exception e){
-    //学好数理化，走遍天下都不怕
+    
 }</stringProp>
           <stringProp name="BeanShellSampler.filename"></stringProp>
           <stringProp name="BeanShellSampler.parameters"></stringProp>
