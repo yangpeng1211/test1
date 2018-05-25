@@ -41,7 +41,7 @@ try{
     cal.add(Calendar.DAY_OF_YEAR,+1);  //后一天
     String orderDate = sf.format(cal.getTime());
     
-    cal.add(Calendar.DAY_OF_YEAR,+1);  //竞猜下,怎么还是加1
+    cal.add(Calendar.DAY_OF_YEAR,+1);  //怎么还是加1
     String senderDate = sf.format(cal.getTime());
 
     cal.add(Calendar.DAY_OF_YEAR,-3);  //昨天
